@@ -1,0 +1,1 @@
+This repository contains a collection of three mini-projects demonstrating the Decorator Design Pattern. The primary focus is learning how to dynamically add responsibilities and behaviors to objects at runtime without modifying their underlying class structures, strictly adhering to the Open/Closed Principle.
